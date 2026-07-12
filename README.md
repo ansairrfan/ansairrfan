@@ -1,6 +1,15 @@
-# 💫 About Me:
-## 👋 About Me<br><br>💻 Currently working on:<br>- Full-stack AI applications using Next.js, FastAPI, and Python<br>- RAG-based systems, AI agents, and intelligent document processing<br>- Scalable backend architectures and production-ready REST APIs<br><br>🤝 Looking to collaborate on:<br>- Open-source AI projects<br>- Generative AI, LLM, and RAG applications<br>- Full-stack web applications and AI-powered products<br><br>🌱 Currently learning:<br>- Advanced Generative AI<br>- Claude, Gemini, and AI agent workflows<br>- System design, cloud deployment, and scalable AI architectures<br><br>💬 Ask me about:<br>- Python, FastAPI, Next.js, React<br>- REST APIs & Backend Development<br>- Generative AI, RAG, OCR, and Document AI<br>- PostgreSQL, Supabase, and Full-Stack Development<br><br>🆘 Looking for help with:<br>- Open-source AI contributions<br>- Advanced system design and distributed systems<br>- MLOps and production deployment of AI applications<br><br>⚡ Fun fact:<br>I love turning research ideas into real-world AI applications. If I discover a new technology, my first instinct is to build something with it rather than just read about it. 🚀
+# 👋 Hi, I'm Ansa Irfan
 
+💻 **AI Engineer | Full-Stack Developer | Computer Science Graduate**
+
+I'm passionate about building AI-powered, scalable web applications that solve real-world problems. I enjoy turning ideas into production-ready software using modern technologies and continuously learning new tools.
+
+- 🔭 **Currently working on:** Full-stack AI applications, RAG systems, AI agents & backend APIs
+- 🌱 **Currently learning:** Advanced Generative AI, Claude, Gemini, System Design & Cloud
+- 🤝 **Looking to collaborate on:** Open-source AI, LLM, RAG & Full-Stack projects
+- 💬 **Ask me about:** Python, FastAPI, Next.js, React, REST APIs, PostgreSQL & Generative AI
+- 🎯 **Looking for help with:** MLOps, scalable AI systems & open-source contributions
+- ⚡ **Fun fact:** I learn best by building. If I discover a new technology, my first instinct is to create something with it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansairfan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansa-irfan-97447621a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ansairrfan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansairfan1352@gmail.com) 
